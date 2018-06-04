@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "FirefoxInlineOptions", "FirefoxInlineOptions.njsproj", "{6A624D50-CF89-4C03-B81D-69758EBD139F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A624D50-CF89-4C03-B81D-69758EBD139F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A624D50-CF89-4C03-B81D-69758EBD139F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A624D50-CF89-4C03-B81D-69758EBD139F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A624D50-CF89-4C03-B81D-69758EBD139F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44B85E11-365A-48E3-9276-6CEAE631143A}
+	EndGlobalSection
+EndGlobal

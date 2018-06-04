@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "es6",
+        "target": "es2018",
+        "lib": [ "es2018", "dom" ],
+        "sourceMap": false,
+        "strict": true,
+        "outDir": "Example/options",
+        "jsx": "react",
+        "jsxFactory": "preact.h"
+    },
+    "compileOnSave": true,
+  "exclude": [
+    "node_modules"
+  ]
+}
